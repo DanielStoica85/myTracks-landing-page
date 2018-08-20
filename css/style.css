@@ -40,8 +40,9 @@ a {
     font-size: 2rem;
 }
 
-.btn-secondary:hover {
-    background-color: var(--secondary-color-hover);
+section#entertainment {
+    background: url('../img/section-bg.jpg') no-repeat bottom/cover;
+    padding: 10rem 0;
 }
 
 /* Showcase */
@@ -100,6 +101,10 @@ a {
 
 .btn-secondary {
     background-color: var(--secondary-color);
+}
+
+.btn-secondary:hover {
+    background-color: var(--secondary-color-hover);
 }
 
 /* Text colors */
